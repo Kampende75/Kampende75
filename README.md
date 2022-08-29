@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Isaac Kampende
 - 👀 I’m interested in full stack web developement
-- 🌱 I’m currently learning software develpment 
+- 🌱 I’m currently learning software development 
 - 💞️ I’m looking to collaborate on a number of web development.
 - 📫 Contact me on email:zeckampende@gmail.com & Whatsapp: +260970108140
